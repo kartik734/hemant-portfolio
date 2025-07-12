@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hemant Kumar | Fresher | Data Entry & Typing Specialist</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    img {
+      width: 150px;
+      border-radius: 10px;
+    }
+    header {
+      text-align: center;
+      padding-bottom: 10px;
+    }
+    h1 {
+      margin-top: 10px;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .button {
+      display: inline-block;
+      padding: 10px 15px;
+      background: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .button:hover {
+      background: #0056b3;
+    }
+    .contact {
+      background: #f1f1f1;
+      padding: 10px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <img src="Screenshot_20250528_161055.jpg" alt="Hemant Kumar Photo" />
+      <h1>Hemant Kumar</h1>
+      <p>Fresher | Data Entry & Typing Specialist</p>
+    </header>
+
+    <div class="section">
+      <h2>About Me</h2>
+      <p>I am a dedicated and hardworking fresher looking for work-from-home opportunities in data entry and typing. I have completed an ADCA course covering MS Excel, Tally ERP 9, PowerPoint, and both Hindi and English typing. I am eager to learn and grow in the data industry and I am currently pursuing a B.A. from Jhamman Lal PG College, Hasanpur.</p>
+    </div>
+
+    <div class="section">
+      <h2>Skills</h2>
+      <ul>
+        <li>MS Excel (Basic)</li>
+        <li>Hindi & English Typing</li>
+        <li>PowerPoint (Basics)</li>
+        <li>Tally ERP 9</li>
+        <li>Data Entry</li>
+        <li>Teamwork & Adaptability</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Resume</h2>
+      <a href="Hemant_Kumar_Resume.pdf" class="button" download>Download My Resume</a>
+    </div>
+
+    <div class="section contact">
+      <h2>Contact Me</h2>
+      <p><strong>Email:</strong> hemantkumar123@gmail.com</p>
+      <p><strong>Phone:</strong> 8449746351</p>
+      <p><strong>WhatsApp:</strong> <a href="https://wa.me/917465939357" target="_blank">7465939357</a></p>
+      <p><strong>Location:</strong> Gangeshwari Village, Tehsil Hasanpur, District Amroha, Uttar Pradesh, India</p>
+    </div>
+  </div>
+</body>
+</html>
